@@ -22,3 +22,7 @@ You can view, edit, update, and delete student records easily with a stylish UI.
 - **Other Tools**: Maven, Axios, Java 17
 
 ---
+
+## 🖼️ Interface Screenshot
+
+![App Screenshot](./src/main/resources/images/add.png)
