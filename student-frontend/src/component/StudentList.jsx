@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import {getStudents, deleteStudent} from "../services/Api";
 import { useNavigate } from "react-router-dom";
-import '../style/StudentList.css';
+import '../style/Student.css';
 
 
 const StudentList = () => {
